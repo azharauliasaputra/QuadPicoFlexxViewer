@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0111A66C-3E5A-482D-8D4D-416A8C123D35</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0111A66C-3E5A-482D-8D4D-416A8C123D35.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585722790.99499202</real>
+			<key>timeStoppedRecording</key>
+			<real>585722958.49195194</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>0111A66C-3E5A-482D-8D4D-416A8C123D35</string>
+		</dict>
+		<key>0426EB37-814E-4398-AE5E-50B097BAA2C2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0426EB37-814E-4398-AE5E-50B097BAA2C2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585723682.50059903</real>
+			<key>timeStoppedRecording</key>
+			<real>585723737.885885</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>0426EB37-814E-4398-AE5E-50B097BAA2C2</string>
+		</dict>
+		<key>0C2D2072-74EF-4918-9477-81F4C21EE8CB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0C2D2072-74EF-4918-9477-81F4C21EE8CB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>584724027.093014</real>
+			<key>timeStoppedRecording</key>
+			<real>584725346.81693196</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>0C2D2072-74EF-4918-9477-81F4C21EE8CB</string>
+		</dict>
+		<key>150F436C-CF03-43FF-8502-5A0E18606836</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>150F436C-CF03-43FF-8502-5A0E18606836.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585723740.87061095</real>
+			<key>timeStoppedRecording</key>
+			<real>585723965.994591</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>150F436C-CF03-43FF-8502-5A0E18606836</string>
+		</dict>
+		<key>197C5168-A976-4A61-B84D-74BE87947110</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>197C5168-A976-4A61-B84D-74BE87947110.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585797925.08501995</real>
+			<key>timeStoppedRecording</key>
+			<real>585797992.04679704</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>197C5168-A976-4A61-B84D-74BE87947110</string>
+		</dict>
+		<key>1F646711-8C9B-4055-BBA8-580F2115F6DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1F646711-8C9B-4055-BBA8-580F2115F6DD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585724767.37302899</real>
+			<key>timeStoppedRecording</key>
+			<real>585724798.08031499</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>1F646711-8C9B-4055-BBA8-580F2115F6DD</string>
+		</dict>
+		<key>2834DB49-9B76-4A39-8CED-9498E93727C5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2834DB49-9B76-4A39-8CED-9498E93727C5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585725072.72237694</real>
+			<key>timeStoppedRecording</key>
+			<real>585725075.01209402</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>2834DB49-9B76-4A39-8CED-9498E93727C5</string>
+		</dict>
+		<key>284EFB4E-C884-4A1F-9A00-945ACC4D24B3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>284EFB4E-C884-4A1F-9A00-945ACC4D24B3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585725074.70625699</real>
+			<key>timeStoppedRecording</key>
+			<real>585725278.70687306</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>284EFB4E-C884-4A1F-9A00-945ACC4D24B3</string>
+		</dict>
+		<key>2B0E10EE-2C47-4D02-A84B-55E82533A128</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2B0E10EE-2C47-4D02-A84B-55E82533A128.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585724992.52910101</real>
+			<key>timeStoppedRecording</key>
+			<real>585725009.34631395</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>2B0E10EE-2C47-4D02-A84B-55E82533A128</string>
+		</dict>
+		<key>2B2CDA1A-FC67-4CCF-90C6-C5C635EE0699</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2B2CDA1A-FC67-4CCF-90C6-C5C635EE0699.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585723428.14872301</real>
+			<key>timeStoppedRecording</key>
+			<real>585723614.10256195</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>2B2CDA1A-FC67-4CCF-90C6-C5C635EE0699</string>
+		</dict>
+		<key>36C84C3C-3BA2-41A9-928A-974E4F5B377F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>36C84C3C-3BA2-41A9-928A-974E4F5B377F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585798005.85458195</real>
+			<key>timeStoppedRecording</key>
+			<real>585798286.47019398</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>36C84C3C-3BA2-41A9-928A-974E4F5B377F</string>
+		</dict>
+		<key>44F7EDCF-CE1C-4763-8E1D-73977781AC10</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>44F7EDCF-CE1C-4763-8E1D-73977781AC10.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585725009.090446</real>
+			<key>timeStoppedRecording</key>
+			<real>585725073.005615</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>44F7EDCF-CE1C-4763-8E1D-73977781AC10</string>
+		</dict>
+		<key>4F940FC0-F00D-4B03-B171-0DEDC3517DFF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4F940FC0-F00D-4B03-B171-0DEDC3517DFF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585797685.28622496</real>
+			<key>timeStoppedRecording</key>
+			<real>585797924.36767697</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>4F940FC0-F00D-4B03-B171-0DEDC3517DFF</string>
+		</dict>
+		<key>51DA3C52-86A4-46A8-A285-501FB9DB87C2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>51DA3C52-86A4-46A8-A285-501FB9DB87C2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585724982.99084604</real>
+			<key>timeStoppedRecording</key>
+			<real>585724992.74747598</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>51DA3C52-86A4-46A8-A285-501FB9DB87C2</string>
+		</dict>
+		<key>69340D1D-B79D-45CD-8234-6CAC41AE0F7F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>69340D1D-B79D-45CD-8234-6CAC41AE0F7F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585722346.62450898</real>
+			<key>timeStoppedRecording</key>
+			<real>585722374.925179</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>69340D1D-B79D-45CD-8234-6CAC41AE0F7F</string>
+		</dict>
+		<key>753C9379-3ACB-4251-A4C3-1310F5F72A16</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>753C9379-3ACB-4251-A4C3-1310F5F72A16.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585723338.62981999</real>
+			<key>timeStoppedRecording</key>
+			<real>585723424.25322199</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>753C9379-3ACB-4251-A4C3-1310F5F72A16</string>
+		</dict>
+		<key>8E18DD8D-08B9-4B6E-AEC3-B3B4C03B139E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8E18DD8D-08B9-4B6E-AEC3-B3B4C03B139E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585724486.02308905</real>
+			<key>timeStoppedRecording</key>
+			<real>585724769.45371497</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>8E18DD8D-08B9-4B6E-AEC3-B3B4C03B139E</string>
+		</dict>
+		<key>A3851CB9-8E49-4A1B-B77F-482F35CE07AE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A3851CB9-8E49-4A1B-B77F-482F35CE07AE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585723618.292858</real>
+			<key>timeStoppedRecording</key>
+			<real>585723677.81745195</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>A3851CB9-8E49-4A1B-B77F-482F35CE07AE</string>
+		</dict>
+		<key>C2DF2024-1217-408A-9699-51E51E5F053A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2DF2024-1217-408A-9699-51E51E5F053A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585722956.30170798</real>
+			<key>timeStoppedRecording</key>
+			<real>585722969.46767104</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>C2DF2024-1217-408A-9699-51E51E5F053A</string>
+		</dict>
+		<key>CAC3FDF5-44D8-446A-A9F0-7B7DEF15C92C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CAC3FDF5-44D8-446A-A9F0-7B7DEF15C92C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585722969.24246299</real>
+			<key>timeStoppedRecording</key>
+			<real>585723281.90739202</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>CAC3FDF5-44D8-446A-A9F0-7B7DEF15C92C</string>
+		</dict>
+		<key>CADE324F-762C-429C-A8FA-70B29CE40DDC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CADE324F-762C-429C-A8FA-70B29CE40DDC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585722392.18158305</real>
+			<key>timeStoppedRecording</key>
+			<real>585722675.83712494</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>CADE324F-762C-429C-A8FA-70B29CE40DDC</string>
+		</dict>
+		<key>CF228BA1-1F67-4845-B43C-6479FF7855B3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CF228BA1-1F67-4845-B43C-6479FF7855B3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585724796.45600998</real>
+			<key>timeStoppedRecording</key>
+			<real>585724985.62330198</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>CF228BA1-1F67-4845-B43C-6479FF7855B3</string>
+		</dict>
+		<key>CF8A646D-16F9-4E16-91C7-1F0513F85BDC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CF8A646D-16F9-4E16-91C7-1F0513F85BDC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>585722679.13989103</real>
+			<key>timeStoppedRecording</key>
+			<real>585722788.05808401</real>
+			<key>title</key>
+			<string>Debug PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>CF8A646D-16F9-4E16-91C7-1F0513F85BDC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

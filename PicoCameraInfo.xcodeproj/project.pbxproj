@@ -7,7 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E3DE4912181C8DE00D5EFD3 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E3DE48F2181C8DE00D5EFD3 /* OpenGL.framework */; };
+		2E3DE4922181C8DE00D5EFD3 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E3DE4902181C8DE00D5EFD3 /* GLUT.framework */; };
 		2E5A87132170E0FF00761458 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E5A87122170E0FF00761458 /* main.cpp */; };
+		2E5A8723217229C700761458 /* libroyale.3.17.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E5A8720217229C700761458 /* libroyale.3.17.0.dylib */; };
+		2E5A8724217229C700761458 /* libspectre3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E5A8721217229C700761458 /* libspectre3.dylib */; };
+		2E5A8725217229C700761458 /* libroyaleCAPI.3.17.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E5A8722217229C700761458 /* libroyaleCAPI.3.17.0.dylib */; };
+		2E667EF4251348780012A814 /* projection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EE5251348770012A814 /* projection.cpp */; };
+		2E667EF5251348780012A814 /* OpenGL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EE7251348770012A814 /* OpenGL.cpp */; };
+		2E667EF6251348780012A814 /* NgimuReceive.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EE8251348770012A814 /* NgimuReceive.cpp */; };
+		2E667EF7251348780012A814 /* gng.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EEA251348770012A814 /* gng.cpp */; };
+		2E667EF8251348780012A814 /* malloc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EEC251348770012A814 /* malloc.cpp */; };
+		2E667EF9251348780012A814 /* picoCamera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EF0251348780012A814 /* picoCamera.cpp */; };
+		2E667EFA251348780012A814 /* detection.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EF2251348780012A814 /* detection.cpp */; };
+		2E667F0B251348850012A814 /* OscError.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EFE251348840012A814 /* OscError.c */; };
+		2E667F0C251348850012A814 /* OscPacket.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E667EFF251348840012A814 /* OscPacket.c */; };
+		2E667F0D251348850012A814 /* OscCommon.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E667F02251348840012A814 /* OscCommon.c */; };
+		2E667F0E251348850012A814 /* OscBundle.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E667F04251348840012A814 /* OscBundle.c */; };
+		2E667F0F251348850012A814 /* OscMessage.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E667F06251348840012A814 /* OscMessage.c */; };
+		2E667F10251348850012A814 /* OscSlip.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E667F09251348840012A814 /* OscSlip.c */; };
+		2E667F11251348850012A814 /* OscAddress.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E667F0A251348840012A814 /* OscAddress.c */; };
+		2E667F13251348AB0012A814 /* rnd.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E667F12251348AB0012A814 /* rnd.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +43,47 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2E3DE48F2181C8DE00D5EFD3 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		2E3DE4902181C8DE00D5EFD3 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		2E5A870F2170E0FF00761458 /* PicoCameraInfo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PicoCameraInfo; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E5A87122170E0FF00761458 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2E5A871A2170E6EA00761458 /* libspectre3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libspectre3.dylib; path = ../../../Royale/bin/libspectre3.dylib; sourceTree = "<group>"; };
+		2E5A871B2170E6EA00761458 /* libroyaleCAPI.3.17.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libroyaleCAPI.3.17.0.dylib; path = ../../../Royale/bin/libroyaleCAPI.3.17.0.dylib; sourceTree = "<group>"; };
+		2E5A871C2170E6EA00761458 /* libroyale.3.17.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libroyale.3.17.0.dylib; path = ../../../Royale/bin/libroyale.3.17.0.dylib; sourceTree = "<group>"; };
+		2E5A8720217229C700761458 /* libroyale.3.17.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libroyale.3.17.0.dylib; path = "../../../Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/bin/libroyale.3.17.0.dylib"; sourceTree = "<group>"; };
+		2E5A8721217229C700761458 /* libspectre3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libspectre3.dylib; path = "../../../Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/bin/libspectre3.dylib"; sourceTree = "<group>"; };
+		2E5A8722217229C700761458 /* libroyaleCAPI.3.17.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libroyaleCAPI.3.17.0.dylib; path = "../../../Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/bin/libroyaleCAPI.3.17.0.dylib"; sourceTree = "<group>"; };
+		2E667EE5251348770012A814 /* projection.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = projection.cpp; sourceTree = "<group>"; };
+		2E667EE6251348770012A814 /* projection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = projection.h; sourceTree = "<group>"; };
+		2E667EE7251348770012A814 /* OpenGL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = OpenGL.cpp; sourceTree = "<group>"; };
+		2E667EE8251348770012A814 /* NgimuReceive.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = NgimuReceive.cpp; sourceTree = "<group>"; };
+		2E667EE9251348770012A814 /* detection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = detection.h; sourceTree = "<group>"; };
+		2E667EEA251348770012A814 /* gng.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = gng.cpp; sourceTree = "<group>"; };
+		2E667EEB251348770012A814 /* picoCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = picoCamera.h; sourceTree = "<group>"; };
+		2E667EEC251348770012A814 /* malloc.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = malloc.cpp; sourceTree = "<group>"; };
+		2E667EED251348780012A814 /* malloc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = malloc.h; sourceTree = "<group>"; };
+		2E667EEE251348780012A814 /* rnd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rnd.h; sourceTree = "<group>"; };
+		2E667EEF251348780012A814 /* gng.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = gng.hpp; sourceTree = "<group>"; };
+		2E667EF0251348780012A814 /* picoCamera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = picoCamera.cpp; sourceTree = "<group>"; };
+		2E667EF1251348780012A814 /* OpenGL.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = OpenGL.hpp; sourceTree = "<group>"; };
+		2E667EF2251348780012A814 /* detection.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = detection.cpp; sourceTree = "<group>"; };
+		2E667EF3251348780012A814 /* NgimuReceive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NgimuReceive.h; sourceTree = "<group>"; };
+		2E667EFC251348840012A814 /* OscBundle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscBundle.h; sourceTree = "<group>"; };
+		2E667EFD251348840012A814 /* OscMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscMessage.h; sourceTree = "<group>"; };
+		2E667EFE251348840012A814 /* OscError.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OscError.c; sourceTree = "<group>"; };
+		2E667EFF251348840012A814 /* OscPacket.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OscPacket.c; sourceTree = "<group>"; };
+		2E667F00251348840012A814 /* OscSlip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscSlip.h; sourceTree = "<group>"; };
+		2E667F01251348840012A814 /* OscAddress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscAddress.h; sourceTree = "<group>"; };
+		2E667F02251348840012A814 /* OscCommon.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OscCommon.c; sourceTree = "<group>"; };
+		2E667F03251348840012A814 /* Osc99.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Osc99.h; sourceTree = "<group>"; };
+		2E667F04251348840012A814 /* OscBundle.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OscBundle.c; sourceTree = "<group>"; };
+		2E667F05251348840012A814 /* OscPacket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscPacket.h; sourceTree = "<group>"; };
+		2E667F06251348840012A814 /* OscMessage.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OscMessage.c; sourceTree = "<group>"; };
+		2E667F07251348840012A814 /* OscError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscError.h; sourceTree = "<group>"; };
+		2E667F08251348840012A814 /* OscCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OscCommon.h; sourceTree = "<group>"; };
+		2E667F09251348840012A814 /* OscSlip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OscSlip.c; sourceTree = "<group>"; };
+		2E667F0A251348840012A814 /* OscAddress.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = OscAddress.c; sourceTree = "<group>"; };
+		2E667F12251348AB0012A814 /* rnd.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rnd.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +91,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E3DE4912181C8DE00D5EFD3 /* OpenGL.framework in Frameworks */,
+				2E3DE4922181C8DE00D5EFD3 /* GLUT.framework in Frameworks */,
+				2E5A8723217229C700761458 /* libroyale.3.17.0.dylib in Frameworks */,
+				2E5A8725217229C700761458 /* libroyaleCAPI.3.17.0.dylib in Frameworks */,
+				2E5A8724217229C700761458 /* libspectre3.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -43,6 +107,7 @@
 			children = (
 				2E5A87112170E0FF00761458 /* PicoCameraInfo */,
 				2E5A87102170E0FF00761458 /* Products */,
+				2E5A87192170E6EA00761458 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,10 +122,64 @@
 		2E5A87112170E0FF00761458 /* PicoCameraInfo */ = {
 			isa = PBXGroup;
 			children = (
+				2E667F12251348AB0012A814 /* rnd.cpp */,
+				2E667EFB251348840012A814 /* Osc99 */,
+				2E667EF2251348780012A814 /* detection.cpp */,
+				2E667EE9251348770012A814 /* detection.h */,
+				2E667EEA251348770012A814 /* gng.cpp */,
+				2E667EEF251348780012A814 /* gng.hpp */,
+				2E667EEC251348770012A814 /* malloc.cpp */,
+				2E667EED251348780012A814 /* malloc.h */,
+				2E667EE8251348770012A814 /* NgimuReceive.cpp */,
+				2E667EF3251348780012A814 /* NgimuReceive.h */,
+				2E667EE7251348770012A814 /* OpenGL.cpp */,
+				2E667EF1251348780012A814 /* OpenGL.hpp */,
+				2E667EF0251348780012A814 /* picoCamera.cpp */,
+				2E667EEB251348770012A814 /* picoCamera.h */,
+				2E667EE5251348770012A814 /* projection.cpp */,
+				2E667EE6251348770012A814 /* projection.h */,
+				2E667EEE251348780012A814 /* rnd.h */,
 				2E5A87122170E0FF00761458 /* main.cpp */,
 			);
 			path = PicoCameraInfo;
 			sourceTree = "<group>";
+		};
+		2E5A87192170E6EA00761458 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2E3DE4902181C8DE00D5EFD3 /* GLUT.framework */,
+				2E3DE48F2181C8DE00D5EFD3 /* OpenGL.framework */,
+				2E5A8720217229C700761458 /* libroyale.3.17.0.dylib */,
+				2E5A8722217229C700761458 /* libroyaleCAPI.3.17.0.dylib */,
+				2E5A8721217229C700761458 /* libspectre3.dylib */,
+				2E5A871C2170E6EA00761458 /* libroyale.3.17.0.dylib */,
+				2E5A871B2170E6EA00761458 /* libroyaleCAPI.3.17.0.dylib */,
+				2E5A871A2170E6EA00761458 /* libspectre3.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2E667EFB251348840012A814 /* Osc99 */ = {
+			isa = PBXGroup;
+			children = (
+				2E667EFC251348840012A814 /* OscBundle.h */,
+				2E667EFD251348840012A814 /* OscMessage.h */,
+				2E667EFE251348840012A814 /* OscError.c */,
+				2E667EFF251348840012A814 /* OscPacket.c */,
+				2E667F00251348840012A814 /* OscSlip.h */,
+				2E667F01251348840012A814 /* OscAddress.h */,
+				2E667F02251348840012A814 /* OscCommon.c */,
+				2E667F03251348840012A814 /* Osc99.h */,
+				2E667F04251348840012A814 /* OscBundle.c */,
+				2E667F05251348840012A814 /* OscPacket.h */,
+				2E667F06251348840012A814 /* OscMessage.c */,
+				2E667F07251348840012A814 /* OscError.h */,
+				2E667F08251348840012A814 /* OscCommon.h */,
+				2E667F09251348840012A814 /* OscSlip.c */,
+				2E667F0A251348840012A814 /* OscAddress.c */,
+			);
+			path = Osc99;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -118,7 +237,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E667EF7251348780012A814 /* gng.cpp in Sources */,
+				2E667EF9251348780012A814 /* picoCamera.cpp in Sources */,
+				2E667EF6251348780012A814 /* NgimuReceive.cpp in Sources */,
+				2E667F11251348850012A814 /* OscAddress.c in Sources */,
+				2E667EF4251348780012A814 /* projection.cpp in Sources */,
+				2E667EF8251348780012A814 /* malloc.cpp in Sources */,
+				2E667F10251348850012A814 /* OscSlip.c in Sources */,
+				2E667F0C251348850012A814 /* OscPacket.c in Sources */,
+				2E667EFA251348780012A814 /* detection.cpp in Sources */,
+				2E667F0F251348850012A814 /* OscMessage.c in Sources */,
+				2E667F0E251348850012A814 /* OscBundle.c in Sources */,
+				2E667EF5251348780012A814 /* OpenGL.cpp in Sources */,
+				2E667F13251348AB0012A814 /* rnd.cpp in Sources */,
+				2E667F0D251348850012A814 /* OscCommon.c in Sources */,
 				2E5A87132170E0FF00761458 /* main.cpp in Sources */,
+				2E667F0B251348850012A814 /* OscError.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,7 +310,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
@@ -228,7 +362,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 			};
@@ -237,8 +371,44 @@
 		2E5A87172170E0FF00761458 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KSLB2ZTFT6;
+				ENABLE_TESTABILITY = NO;
+				HEADER_SEARCH_PATHS = (
+					"/Users/Azhar/Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/include",
+					"/Users/Azhar/Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/samples/inc",
+					/usr/local/Cellar/opencv/4.4.0_2/include/opencv4/,
+					/Users/azhar/Library/Mobile,
+					"Documents/com~apple~CloudDocs/Research/OSX",
+					programming/PicoCameraInfo/Osc99,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/Azhar/Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/bin",
+					/usr/local/Cellar/opencv/4.4.0_2/lib,
+					/Users/azhar/Library/Mobile,
+					"Documents/com~apple~CloudDocs/Research/OSX",
+					"programming/PicoCameraInfo⁩/Osc99⁩",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				OTHER_CFLAGS = "-I/path-to-include/";
+				OTHER_LDFLAGS = (
+					/usr/local/lib/libopencv_calib3d.dylib,
+					/usr/local/lib/libopencv_core.dylib,
+					/usr/local/lib/libopencv_features2d.dylib,
+					/usr/local/lib/libopencv_flann.dylib,
+					/usr/local/lib/libopencv_highgui.dylib,
+					/usr/local/lib/libopencv_imgproc.dylib,
+					/usr/local/lib/libopencv_ml.dylib,
+					/usr/local/lib/libopencv_objdetect.dylib,
+					/usr/local/lib/libopencv_shape.dylib,
+					/usr/local/lib/libopencv_photo.dylib,
+					/usr/local/lib/libopencv_stitching.dylib,
+					/usr/local/lib/libopencv_superres.dylib,
+					/usr/local/lib/libopencv_video.dylib,
+					/usr/local/lib/libopencv_videoio.dylib,
+					/usr/local/lib/libopencv_videostab.dylib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -246,8 +416,43 @@
 		2E5A87182170E0FF00761458 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KSLB2ZTFT6;
+				HEADER_SEARCH_PATHS = (
+					"/Users/Azhar/Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/include",
+					"/Users/Azhar/Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/samples/inc",
+					/usr/local/Cellar/opencv/4.4.0_2/include/opencv4/,
+					/Users/azhar/Library/Mobile,
+					"Documents/com~apple~CloudDocs/Research/OSX",
+					programming/PicoCameraInfo/Osc99,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/Azhar/Downloads/20180514_royale_3/libroyale-3.17.0.56-APPLE-x86-64Bit/bin",
+					/usr/local/Cellar/opencv/4.4.0_2/lib,
+					/Users/azhar/Library/Mobile,
+					"Documents/com~apple~CloudDocs/Research/OSX",
+					"programming/PicoCameraInfo⁩/Osc99⁩",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				OTHER_CFLAGS = "-I/path-to-include/";
+				OTHER_LDFLAGS = (
+					/usr/local/lib/libopencv_calib3d.dylib,
+					/usr/local/lib/libopencv_core.dylib,
+					/usr/local/lib/libopencv_features2d.dylib,
+					/usr/local/lib/libopencv_flann.dylib,
+					/usr/local/lib/libopencv_highgui.dylib,
+					/usr/local/lib/libopencv_imgproc.dylib,
+					/usr/local/lib/libopencv_ml.dylib,
+					/usr/local/lib/libopencv_objdetect.dylib,
+					/usr/local/lib/libopencv_shape.dylib,
+					/usr/local/lib/libopencv_photo.dylib,
+					/usr/local/lib/libopencv_stitching.dylib,
+					/usr/local/lib/libopencv_superres.dylib,
+					/usr/local/lib/libopencv_video.dylib,
+					/usr/local/lib/libopencv_videoio.dylib,
+					/usr/local/lib/libopencv_videostab.dylib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

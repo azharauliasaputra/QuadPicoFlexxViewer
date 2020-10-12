@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B26AE4C9-56CA-48BB-8466-13363BFA927B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B26AE4C9-56CA-48BB-8466-13363BFA927B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PicoCameraInfo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PicoCameraInfo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PicoCameraInfo</string>
+			<key>timeStartedRecording</key>
+			<real>622479548.16012096</real>
+			<key>timeStoppedRecording</key>
+			<real>622479550.64910603</real>
+			<key>title</key>
+			<string>Build PicoCameraInfo</string>
+			<key>uniqueIdentifier</key>
+			<string>B26AE4C9-56CA-48BB-8466-13363BFA927B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
